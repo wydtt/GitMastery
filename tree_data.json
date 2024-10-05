@@ -1,0 +1,96 @@
+[
+    {
+        "id": "1-1whyusegit.html",
+        "text": "1-1whyusegit.html",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-1whyusegit.html"
+        }
+    },
+    {
+        "id": "GIT_files",
+        "text": "GIT_files",
+        "state": "closed",
+        "children": [
+            {
+                "id": "2fsgkgsesaqsbcvtonl4s96gt5.png",
+                "text": "2fsgkgsesaqsbcvtonl4s96gt5.png",
+                "state": "open",
+                "attributes": {
+                    "url": "notes/GIT_files/2fsgkgsesaqsbcvtonl4s96gt5.png"
+                }
+            },
+            {
+                "id": "5q8aq973i85m3unvk6a10l37ld.png",
+                "text": "5q8aq973i85m3unvk6a10l37ld.png",
+                "state": "open",
+                "attributes": {
+                    "url": "notes/GIT_files/5q8aq973i85m3unvk6a10l37ld.png"
+                }
+            },
+            {
+                "id": "7u14m1f4oipsm4d85728lf2inu.png",
+                "text": "7u14m1f4oipsm4d85728lf2inu.png",
+                "state": "open",
+                "attributes": {
+                    "url": "notes/GIT_files/7u14m1f4oipsm4d85728lf2inu.png"
+                }
+            },
+            {
+                "id": "703usjrlaftp1g1sas083hujuv.png",
+                "text": "703usjrlaftp1g1sas083hujuv.png",
+                "state": "open",
+                "attributes": {
+                    "url": "notes/GIT_files/703usjrlaftp1g1sas083hujuv.png"
+                }
+            },
+            {
+                "id": "images",
+                "text": "images",
+                "state": "closed",
+                "children": [
+                    {
+                        "id": "GIT 2.jpg",
+                        "text": "GIT 2.jpg",
+                        "state": "open",
+                        "attributes": {
+                            "url": "notes/GIT_files/images/GIT 2.jpg"
+                        }
+                    },
+                    {
+                        "id": "GIT 3.jpg",
+                        "text": "GIT 3.jpg",
+                        "state": "open",
+                        "attributes": {
+                            "url": "notes/GIT_files/images/GIT 3.jpg"
+                        }
+                    },
+                    {
+                        "id": "GIT 4.jpg",
+                        "text": "GIT 4.jpg",
+                        "state": "open",
+                        "attributes": {
+                            "url": "notes/GIT_files/images/GIT 4.jpg"
+                        }
+                    },
+                    {
+                        "id": "GIT 5.jpg",
+                        "text": "GIT 5.jpg",
+                        "state": "open",
+                        "attributes": {
+                            "url": "notes/GIT_files/images/GIT 5.jpg"
+                        }
+                    },
+                    {
+                        "id": "GIT.jpg",
+                        "text": "GIT.jpg",
+                        "state": "open",
+                        "attributes": {
+                            "url": "notes/GIT_files/images/GIT.jpg"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
