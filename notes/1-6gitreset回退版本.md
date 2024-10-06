@@ -24,3 +24,23 @@ file1.txt  file2.txt
 slociv@gg ~/D/repo-hard (master)> git ls-files
 file1.txt
 file2.txt
+
+git reset --mixed 工作区有，暂存区没有
+
+slociv@gg ~/Downloads> cd repo-mixed/
+slociv@gg ~/D/repo-mixed (master)> ls
+file1.txt  file2.txt  file3.txt
+slociv@gg ~/D/repo-mixed (master)> git reset HEAD^
+slociv@gg ~/D/repo-mixed (master)> git log --oneline
+676c88d (HEAD -> master) 2
+6f06b9b 1
+slociv@gg ~/D/repo-mixed (master)> ls
+file1.txt  file2.txt  file3.txt
+slociv@gg ~/D/repo-mixed (master)> cat file3.txt 
+3
+slociv@gg ~/D/repo-mixed (master)> git ls-files 
+file1.txt
+file2.txt
+
+git reflog  所有操作都是可以回溯的
+git reset --hard b294003d`
