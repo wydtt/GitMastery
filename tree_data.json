@@ -1,96 +1,194 @@
 [
     {
-        "id": "1-1whyusegit.html",
-        "text": "1-1whyusegit.html",
+        "id": "1-1GIT简介.png",
+        "text": "1-1GIT简介.png",
         "state": "open",
         "attributes": {
-            "url": "notes/1-1whyusegit.html"
+            "url": "notes/1-1GIT简介.png"
         }
     },
     {
-        "id": "GIT_files",
-        "text": "GIT_files",
-        "state": "closed",
-        "children": [
-            {
-                "id": "2fsgkgsesaqsbcvtonl4s96gt5.png",
-                "text": "2fsgkgsesaqsbcvtonl4s96gt5.png",
-                "state": "open",
-                "attributes": {
-                    "url": "notes/GIT_files/2fsgkgsesaqsbcvtonl4s96gt5.png"
-                }
-            },
-            {
-                "id": "5q8aq973i85m3unvk6a10l37ld.png",
-                "text": "5q8aq973i85m3unvk6a10l37ld.png",
-                "state": "open",
-                "attributes": {
-                    "url": "notes/GIT_files/5q8aq973i85m3unvk6a10l37ld.png"
-                }
-            },
-            {
-                "id": "7u14m1f4oipsm4d85728lf2inu.png",
-                "text": "7u14m1f4oipsm4d85728lf2inu.png",
-                "state": "open",
-                "attributes": {
-                    "url": "notes/GIT_files/7u14m1f4oipsm4d85728lf2inu.png"
-                }
-            },
-            {
-                "id": "703usjrlaftp1g1sas083hujuv.png",
-                "text": "703usjrlaftp1g1sas083hujuv.png",
-                "state": "open",
-                "attributes": {
-                    "url": "notes/GIT_files/703usjrlaftp1g1sas083hujuv.png"
-                }
-            },
-            {
-                "id": "images",
-                "text": "images",
-                "state": "closed",
-                "children": [
-                    {
-                        "id": "GIT 2.jpg",
-                        "text": "GIT 2.jpg",
-                        "state": "open",
-                        "attributes": {
-                            "url": "notes/GIT_files/images/GIT 2.jpg"
-                        }
-                    },
-                    {
-                        "id": "GIT 3.jpg",
-                        "text": "GIT 3.jpg",
-                        "state": "open",
-                        "attributes": {
-                            "url": "notes/GIT_files/images/GIT 3.jpg"
-                        }
-                    },
-                    {
-                        "id": "GIT 4.jpg",
-                        "text": "GIT 4.jpg",
-                        "state": "open",
-                        "attributes": {
-                            "url": "notes/GIT_files/images/GIT 4.jpg"
-                        }
-                    },
-                    {
-                        "id": "GIT 5.jpg",
-                        "text": "GIT 5.jpg",
-                        "state": "open",
-                        "attributes": {
-                            "url": "notes/GIT_files/images/GIT 5.jpg"
-                        }
-                    },
-                    {
-                        "id": "GIT.jpg",
-                        "text": "GIT.jpg",
-                        "state": "open",
-                        "attributes": {
-                            "url": "notes/GIT_files/images/GIT.jpg"
-                        }
-                    }
-                ]
-            }
-        ]
+        "id": "1-2git安装.md",
+        "text": "1-2git安装.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-2git安装.md"
+        }
+    },
+    {
+        "id": "1-3新建仓库.md",
+        "text": "1-3新建仓库.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-3新建仓库.md"
+        }
+    },
+    {
+        "id": "1-4git工作区域和文件的状态.md",
+        "text": "1-4git工作区域和文件的状态.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-4git工作区域和文件的状态.md"
+        }
+    },
+    {
+        "id": "1-5添加和提交文件.md",
+        "text": "1-5添加和提交文件.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-5添加和提交文件.md"
+        }
+    },
+    {
+        "id": "1-6gitreset回退版本.md",
+        "text": "1-6gitreset回退版本.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-6gitreset回退版本.md"
+        }
+    },
+    {
+        "id": "1-6gitreset的三种模式.png",
+        "text": "1-6gitreset的三种模式.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-6gitreset的三种模式.png"
+        }
+    },
+    {
+        "id": "1-7使用gitdiff查看差异.md",
+        "text": "1-7使用gitdiff查看差异.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-7使用gitdiff查看差异.md"
+        }
+    },
+    {
+        "id": "1-8gitrm.png",
+        "text": "1-8gitrm.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-8gitrm.png"
+        }
+    },
+    {
+        "id": "1-8gitrm删除内容.md",
+        "text": "1-8gitrm删除内容.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-8gitrm删除内容.md"
+        }
+    },
+    {
+        "id": "1-9gitignore.md",
+        "text": "1-9gitignore.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-9gitignore.md"
+        }
+    },
+    {
+        "id": "1-9gitignore.png",
+        "text": "1-9gitignore.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-9gitignore.png"
+        }
+    },
+    {
+        "id": "1-11ssh配置和克隆仓库.md",
+        "text": "1-11ssh配置和克隆仓库.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-11ssh配置和克隆仓库.md"
+        }
+    },
+    {
+        "id": "1-12关联本地仓库和远程仓库.md",
+        "text": "1-12关联本地仓库和远程仓库.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-12关联本地仓库和远程仓库.md"
+        }
+    },
+    {
+        "id": "1-12关联本地仓库和远程仓库.png",
+        "text": "1-12关联本地仓库和远程仓库.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-12关联本地仓库和远程仓库.png"
+        }
+    },
+    {
+        "id": "1-13gitee和gitlab的本地化部署.md",
+        "text": "1-13gitee和gitlab的本地化部署.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-13gitee和gitlab的本地化部署.md"
+        }
+    },
+    {
+        "id": "1-14vscode中的git状态.png",
+        "text": "1-14vscode中的git状态.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-14vscode中的git状态.png"
+        }
+    },
+    {
+        "id": "1-16git分支管理命令.png",
+        "text": "1-16git分支管理命令.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-16git分支管理命令.png"
+        }
+    },
+    {
+        "id": "1-16分支简介和基本介绍.md",
+        "text": "1-16分支简介和基本介绍.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-16分支简介和基本介绍.md"
+        }
+    },
+    {
+        "id": "1-17解决合并冲突.md",
+        "text": "1-17解决合并冲突.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-17解决合并冲突.md"
+        }
+    },
+    {
+        "id": "1-17解决合并冲突.png",
+        "text": "1-17解决合并冲突.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-17解决合并冲突.png"
+        }
+    },
+    {
+        "id": "1-18回退和rebase.md",
+        "text": "1-18回退和rebase.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-18回退和rebase.md"
+        }
+    },
+    {
+        "id": "1-19githubflow.md",
+        "text": "1-19githubflow.md",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-19githubflow.md"
+        }
+    },
+    {
+        "id": "1-19命名分支.png",
+        "text": "1-19命名分支.png",
+        "state": "open",
+        "attributes": {
+            "url": "notes/1-19命名分支.png"
+        }
     }
 ]
